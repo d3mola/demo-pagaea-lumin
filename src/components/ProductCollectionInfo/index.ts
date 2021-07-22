@@ -1,0 +1,1 @@
+export { ProductCollectionInfo } from './ProductCollectionInfo';
